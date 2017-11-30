@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robotvision/csp_project/csp_ws/devel/setup.sh
