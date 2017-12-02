@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>object_recognition</name>
+  <version>0.0.0</version>
+  <description>The object_recognition package. Recoginze object and find the location of object in image</description>
+  <maintainer email="w86763777@gmail.com">Yi-Lun Wu</maintainer>
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <depend>duckietown_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>cv_bridge</depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
